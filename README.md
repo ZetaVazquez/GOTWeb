@@ -1,8 +1,5 @@
 
 # WebSite de Game of thrones
-``resaltado``
-
-Texto normal
 
 **Personajes(lista)**
 - Daenerys
@@ -19,4 +16,5 @@ Texto normal
 - Sothoryos
 - Ulthos
 
-### Casas más importantes
+### Casas más importantes y más...
+``todo sacado de la api de thronesapi.com``
