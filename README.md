@@ -14,9 +14,9 @@ Texto normal
 - y más...
 
 ## Continentes
--Westeros
--Essos
--Sothoryos
--Ulthos
+- Westeros
+- Essos
+- Sothoryos
+- Ulthos
 
 ### Casas más importantes
