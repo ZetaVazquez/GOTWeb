@@ -11,7 +11,12 @@ Texto normal
 - Arya Stark
 - Sansa Stark
 - Cersei Lannister
+- y más...
 
-## titulo 2
+## Continentes
+-Westeros
+-Essos
+-Sothoryos
+-Ulthos
 
-### titulo 3
+### Casas más importantes
