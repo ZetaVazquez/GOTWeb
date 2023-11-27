@@ -5,7 +5,20 @@ body{
 
 h1{
   margin-left:100px ;
-  margin-bottom: 100 px;
-  margin-top: 100 px;
   font-family:Tahoma;
+}
+
+
+.img{
+width:30%;
+height: 35vw;
+object-fit:cover; 
+
+}
+
+.image-2x {
+  margin-top: 100px;
+  margin-left:800px;
+  margin-bottom: 100px;;
+  scale: 2
 }
